@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BooksWagon Test Suits">
+    <listeners>
+        <listener class-name="com.bridgelabz.utility.ExtentReport"></listener>
+    </listeners>
+    <test name="Flipkart Tests">
+        <classes>
+            <class name="com.bridgelabz.test.BooksWagonTest">
+                <methods>
+                    <include name="check_network_connection"/>
+                    <include name="login_into_application"/>
+                    <include name="getSearch"/>
+                    <include name="update_cart"/>
+                    <include name="click_on_placeOrder"/>
+                    <include name="click_on_logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
