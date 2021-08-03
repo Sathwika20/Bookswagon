@@ -8,7 +8,6 @@
         <classes>
             <class name="com.bridgelabz.test.BooksWagonTest">
                 <methods>
-                    <include name="check_network_connection"/>
                     <include name="login_into_application"/>
                     <include name="getSearch"/>
                     <include name="update_cart"/>
