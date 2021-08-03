@@ -296,3 +296,13 @@
 [INFO ] 2021-08-03 15:09:28.084 [Test worker] Base - setting the username
 [INFO ] 2021-08-03 15:09:29.196 [Test worker] Base - setting the password
 [INFO ] 2021-08-03 15:09:33.030 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 16:40:18.853 [main] Base - launching chrome broswer
+[INFO ] 2021-08-03 16:40:19.067 [main] Base - entering application URL
+[INFO ] 2021-08-03 16:40:30.202 [main] Base - setting the username
+[INFO ] 2021-08-03 16:40:31.319 [main] Base - setting the password
+[INFO ] 2021-08-03 16:40:39.520 [main] Base - searching the author name
+[INFO ] 2021-08-03 16:40:53.481 [main] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 16:41:00.541 [main] Base - setting the address of the user
+[INFO ] 2021-08-03 16:41:16.806 [main] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 16:41:16.970 [main] Base - clicking on logout button
+[INFO ] 2021-08-03 16:41:17.996 [main] Base - Browser is closed
