@@ -1,0 +1,19 @@
+[INFO ] 2021-08-04 18:21:40.945 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-04 18:21:41.201 [Test worker] Base - entering application URL
+[INFO ] 2021-08-04 18:22:01.625 [Test worker] Base - setting the username
+[INFO ] 2021-08-04 18:22:02.829 [Test worker] Base - setting the password
+[INFO ] 2021-08-04 18:22:09.944 [Test worker] Base - searching the author name
+[INFO ] 2021-08-04 18:22:24.167 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-04 18:22:28.654 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-04 18:22:30.079 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-04 18:22:32.056 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-04 18:24:01.183 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-04 18:24:01.350 [Test worker] Base - entering application URL
+[INFO ] 2021-08-04 18:24:15.536 [Test worker] Base - setting the username
+[INFO ] 2021-08-04 18:24:16.707 [Test worker] Base - setting the password
+[INFO ] 2021-08-04 18:24:23.566 [Test worker] Base - searching the author name
+[INFO ] 2021-08-04 18:24:37.624 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-04 18:24:44.846 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-04 18:25:01.145 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-04 18:25:01.319 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-04 18:25:02.664 [Test worker] Base - Browser is closed

@@ -1,0 +1,308 @@
+[INFO ] 2021-08-03 14:13:42.103 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:13:42.292 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:13:49.376 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:13:51.343 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:13:51.343 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:13:51.353 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:13:51.913 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:13:57.661 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:13:58.804 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:14:03.413 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:03.422 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:03.573 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:05.864 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:14:19.216 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:19.224 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:19.413 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:19.705 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:14:21.913 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:21.913 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:22.079 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:26.903 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 14:14:42.897 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:42.897 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:43.032 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:43.171 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:14:43.394 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:14:44.391 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:44.391 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:44.553 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:44.703 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:14:44.703 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:14:44.872 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:14:44.989 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:19:32.610 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:19:32.829 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:19:39.377 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:19:41.631 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:19:41.639 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:19:41.643 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:19:42.047 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:19:47.248 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:19:48.376 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:19:52.295 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:19:52.295 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:19:52.429 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:19:54.672 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:20:08.390 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:08.390 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:08.563 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:08.859 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:20:11.072 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:11.072 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:11.250 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:16.587 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 14:20:32.293 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:32.293 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:32.483 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:32.655 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:20:32.819 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:20:33.689 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:33.689 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:33.872 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:36.604 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:20:37.747 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:20:40.981 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:40.982 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:41.106 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:41.255 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:20:41.255 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:20:41.394 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:20:41.505 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:26:55.903 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:26:56.094 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:27:02.833 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:27:04.534 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:27:04.535 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:04.535 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:04.888 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:27:10.745 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:27:11.882 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:27:16.617 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:16.617 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:16.772 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:27:19.037 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:27:32.250 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:32.250 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:32.454 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:27:32.751 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:27:34.959 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:34.959 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:35.142 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:27:41.004 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 14:27:57.609 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:57.609 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:57.812 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:27:57.959 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:27:58.170 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:27:59.372 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:27:59.372 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:27:59.534 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:28:02.715 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:28:03.841 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:28:08.003 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:28:08.003 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:28:08.131 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:28:08.304 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:28:08.304 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:28:08.445 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:28:08.615 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:29:31.796 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:29:31.988 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:29:38.845 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:29:41.110 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:29:41.111 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:29:41.122 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:29:41.463 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:29:47.193 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:29:48.344 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:29:53.917 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:29:53.917 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:29:54.175 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:29:56.376 [Test worker] Base - searching the author name
+[WARN ] 2021-08-03 14:30:01.566 [Test worker] Base - Test case is failed
+[INFO ] 2021-08-03 14:30:01.566 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:01.897 [Test worker] Base - ScreenShot saved in file
+[WARN ] 2021-08-03 14:30:02.151 [Test worker] Base - Test case is failed
+[INFO ] 2021-08-03 14:30:02.152 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:02.428 [Test worker] Base - ScreenShot saved in file
+[WARN ] 2021-08-03 14:30:02.703 [Test worker] Base - Test case is failed
+[INFO ] 2021-08-03 14:30:02.703 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:02.914 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:30:03.129 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:30:03.342 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:30:04.411 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:30:04.411 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:04.550 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:30:07.830 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:30:08.934 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:30:13.260 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:30:13.260 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:13.441 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:30:13.604 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:30:13.604 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:13.782 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:30:13.922 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:30:25.900 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:30:26.089 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:30:33.391 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:30:35.576 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:30:35.582 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:30:35.595 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:30:36.160 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:31:41.187 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:31:42.682 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:31:47.904 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:31:47.904 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:31:48.409 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:31:50.655 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:32:05.520 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:05.520 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:05.901 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:06.164 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:32:08.343 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:08.344 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:08.541 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:13.576 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 14:32:30.640 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:30.640 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:30.917 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:31.092 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:32:31.263 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:32:32.751 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:32.751 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:32.938 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:35.736 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:32:36.853 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:32:41.331 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:41.333 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:41.481 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:41.636 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:32:41.636 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:32:41.782 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:32:41.907 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:34:40.467 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:34:40.783 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:34:50.024 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:34:51.162 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:34:55.258 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:39:44.813 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:39:45.003 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:39:51.253 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:41:46.229 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:41:46.433 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:41:53.648 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:42:27.650 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:42:27.863 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:42:35.299 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:43:25.709 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:43:25.900 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:43:35.605 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:43:49.106 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:43:51.399 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:45:38.956 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:45:39.126 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:45:47.444 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:46:00.915 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:46:16.523 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:46:16.722 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:46:24.665 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:46:38.757 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:47:39.925 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:47:40.083 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:47:49.867 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:48:03.393 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:48:26.490 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:48:26.647 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:48:32.607 [Test worker] Base - checking the network connection
+[INFO ] 2021-08-03 14:48:34.051 [Test worker] Base - Network is connected
+[INFO ] 2021-08-03 14:48:34.054 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:48:34.056 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:48:34.315 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:48:38.905 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 14:48:40.040 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 14:48:43.831 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:48:43.831 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:48:43.957 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:48:46.134 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:48:59.538 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:48:59.538 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:48:59.668 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:48:59.879 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:49:02.042 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:49:02.042 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:49:02.174 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:49:07.081 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 14:49:22.599 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:49:22.599 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:49:22.738 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:49:22.873 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 14:49:23.020 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 14:49:23.906 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:49:23.907 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:49:24.050 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:49:24.227 [Test worker] Base - Test case is Success
+[INFO ] 2021-08-03 14:49:24.227 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-08-03 14:49:24.530 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-08-03 14:49:24.673 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:50:05.799 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:50:05.991 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:50:14.688 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:50:28.143 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:50:48.076 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:50:48.277 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:50:56.312 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:51:09.797 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:51:11.994 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:52:22.932 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:52:23.109 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:52:31.212 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:52:36.598 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:53:04.627 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:53:04.796 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:53:12.632 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:53:26.096 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:53:30.293 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 14:55:46.009 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 14:55:46.179 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 14:55:54.486 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 14:56:08.041 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 14:56:12.305 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 15:00:01.328 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 15:00:01.541 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 15:00:13.931 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 15:00:15.030 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 15:00:21.499 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 15:00:26.631 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 15:00:31.804 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 15:00:32.985 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 15:00:47.038 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 15:00:47.209 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 15:00:56.875 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 15:00:58.024 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 15:01:04.519 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 15:01:17.661 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 15:01:24.586 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-03 15:01:40.296 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 15:01:42.379 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-03 15:01:43.031 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 15:04:59.693 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 15:04:59.987 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 15:05:08.167 [Test worker] Base - searching the author name
+[INFO ] 2021-08-03 15:05:21.772 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 15:05:26.052 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 15:09:18.759 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-03 15:09:18.922 [Test worker] Base - entering application URL
+[INFO ] 2021-08-03 15:09:28.084 [Test worker] Base - setting the username
+[INFO ] 2021-08-03 15:09:29.196 [Test worker] Base - setting the password
+[INFO ] 2021-08-03 15:09:33.030 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-03 16:40:18.853 [main] Base - launching chrome broswer
+[INFO ] 2021-08-03 16:40:19.067 [main] Base - entering application URL
+[INFO ] 2021-08-03 16:40:30.202 [main] Base - setting the username
+[INFO ] 2021-08-03 16:40:31.319 [main] Base - setting the password
+[INFO ] 2021-08-03 16:40:39.520 [main] Base - searching the author name
+[INFO ] 2021-08-03 16:40:53.481 [main] Base - changing the value of the quantity box
+[INFO ] 2021-08-03 16:41:00.541 [main] Base - setting the address of the user
+[INFO ] 2021-08-03 16:41:16.806 [main] Base - Hovering to the accountNmae
+[INFO ] 2021-08-03 16:41:16.970 [main] Base - clicking on logout button
+[INFO ] 2021-08-03 16:41:17.996 [main] Base - Browser is closed
