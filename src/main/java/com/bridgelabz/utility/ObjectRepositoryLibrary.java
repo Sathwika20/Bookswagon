@@ -17,21 +17,20 @@ public class ObjectRepositoryLibrary extends Base {
         pro = new Properties();
         pro.load(fis);
     }
-    public String click_on_login_button(){
-        log.info("click on login button");
-        return pro.getProperty("login_xpath");
+    public String enter_name_of_recipient(){
+        log.info("enter name of the recipient");
+        return pro.getProperty("nameOfTheRecipient");
     }
-    public String getLoginUserName(){
-        log.info("Provide the userName");
-        return pro.getProperty("userName_xpath");
+    public String enter_address(){
+        log.info("enter address");
+        return pro.getProperty("address");
     }
-    public String getPassword(){
-        log.info("Provide the password");
-        return pro.getProperty("password_xpath");
+    public String enter_pinCode(){
+        log.info("enter pinCode");
+        return pro.getProperty("pinCode");
     }
-    public String getLoginButton(){
-        log.info("click on login button after entering valid credentials");
-        return pro.getProperty("loginButton_xpath");
+    public String enter_mobileNumber(){
+        log.info("enter mobile number");
+        return pro.getProperty("mobileNumber");
     }
-
 }

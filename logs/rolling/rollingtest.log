@@ -1,34 +1,814 @@
-[INFO ] 2021-08-05 11:35:20.616 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-08-05 11:35:20.837 [Test worker] Base - entering application URL
-[INFO ] 2021-08-05 11:35:29.058 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-08-05 11:35:29.422 [Test worker] Base - Browser is closed
-[INFO ] 2021-08-05 11:36:47.427 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-08-05 11:36:47.614 [Test worker] Base - entering application URL
-[INFO ] 2021-08-05 11:36:53.927 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-08-05 11:36:53.927 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
-[INFO ] 2021-08-05 11:36:53.927 [Test worker] Base - click on login button
-[INFO ] 2021-08-05 11:36:55.096 [Test worker] Base - Provide the userName
-[INFO ] 2021-08-05 11:36:55.390 [Test worker] Base - Provide the password
-[INFO ] 2021-08-05 11:36:55.921 [Test worker] Base - click on login button after entering valid credentials
-[INFO ] 2021-08-05 11:36:58.137 [Test worker] Base - End of the test
-[INFO ] 2021-08-05 11:36:58.417 [Test worker] Base - Browser is closed
-[INFO ] 2021-08-05 11:37:39.348 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-08-05 11:37:39.544 [Test worker] Base - entering application URL
-[INFO ] 2021-08-05 11:37:45.842 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-08-05 11:37:45.844 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
-[INFO ] 2021-08-05 11:37:45.844 [Test worker] Base - click on login button
-[INFO ] 2021-08-05 11:37:46.797 [Test worker] Base - Provide the userName
-[INFO ] 2021-08-05 11:37:47.034 [Test worker] Base - Provide the password
-[INFO ] 2021-08-05 11:37:47.149 [Test worker] Base - click on login button after entering valid credentials
-[INFO ] 2021-08-05 11:37:50.276 [Test worker] Base - End of the test
-[INFO ] 2021-08-05 11:37:50.561 [Test worker] Base - Browser is closed
-[INFO ] 2021-08-05 11:38:20.048 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-08-05 11:38:20.267 [Test worker] Base - entering application URL
-[INFO ] 2021-08-05 11:38:28.100 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-08-05 11:38:28.101 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
-[INFO ] 2021-08-05 11:38:28.102 [Test worker] Base - click on login button
-[INFO ] 2021-08-05 11:38:28.990 [Test worker] Base - Provide the userName
-[INFO ] 2021-08-05 11:38:29.140 [Test worker] Base - Provide the password
-[INFO ] 2021-08-05 11:38:29.309 [Test worker] Base - click on login button after entering valid credentials
-[INFO ] 2021-08-05 11:38:32.107 [Test worker] Base - End of the test
-[INFO ] 2021-08-05 11:38:32.354 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:33:07.106 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:33:07.312 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:33:20.347 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:33:21.488 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:33:28.259 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:33:42.748 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:33:44.971 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:33:44.974 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:33:44.975 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:33:45.126 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:33:45.200 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:33:45.462 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:37:25.954 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:37:26.119 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:37:39.179 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:37:40.313 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:37:46.838 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:38:00.825 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:38:03.038 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:38:03.043 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:38:03.044 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:38:03.168 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:38:03.264 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:38:04.885 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 09:38:06.078 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:39:22.211 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:39:22.401 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:39:36.313 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:39:37.439 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:39:44.164 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:39:58.729 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:40:00.936 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:40:00.937 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:40:00.939 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:40:01.077 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:40:01.175 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:40:02.564 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 09:40:03.192 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:41:51.014 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:41:51.187 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:42:04.240 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:42:05.373 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:42:11.615 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:42:25.137 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:42:27.381 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:42:27.385 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:42:27.385 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:42:27.524 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:42:27.592 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:42:27.733 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:45:02.690 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:45:02.846 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:45:16.661 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:45:17.795 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:45:24.430 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:45:38.032 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:45:40.237 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:45:40.239 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:45:40.239 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:45:40.404 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:45:40.475 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:45:41.113 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 09:49:06.772 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 09:49:06.975 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 09:49:21.028 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 09:49:22.164 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 09:49:29.158 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 09:49:42.988 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 09:49:45.215 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 09:49:45.215 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 09:49:45.215 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 09:49:47.367 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 09:49:50.264 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 09:49:50.416 [Test worker] Base - enter address
+[INFO ] 2021-08-09 09:49:52.549 [Test worker] Base - click on country
+[INFO ] 2021-08-09 09:49:54.691 [Test worker] Base - select country
+[INFO ] 2021-08-09 09:49:54.743 [Test worker] Base - click on state
+[INFO ] 2021-08-09 09:49:56.906 [Test worker] Base - select state
+[INFO ] 2021-08-09 09:49:59.000 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 09:50:01.141 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 09:50:01.258 [Test worker] Base - click on city
+[INFO ] 2021-08-09 09:50:03.382 [Test worker] Base - select city
+[INFO ] 2021-08-09 09:50:03.455 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 09:50:06.656 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 09:50:08.771 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 09:50:08.796 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 09:50:08.974 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 09:50:10.377 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 10:02:57.137 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 10:02:57.324 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 10:03:10.824 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 10:03:11.972 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 10:03:18.777 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 10:03:32.724 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 10:03:34.938 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 10:03:34.948 [Test worker] Base - Give the valid credentials of the user to login into Flipkart
+[INFO ] 2021-08-09 10:03:34.948 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 10:03:37.133 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 10:03:39.842 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 10:03:40.045 [Test worker] Base - enter address
+[INFO ] 2021-08-09 10:03:42.239 [Test worker] Base - click on country
+[INFO ] 2021-08-09 10:03:44.378 [Test worker] Base - select country
+[INFO ] 2021-08-09 10:03:44.447 [Test worker] Base - click on state
+[INFO ] 2021-08-09 10:03:46.585 [Test worker] Base - select state
+[INFO ] 2021-08-09 10:03:48.669 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 10:03:50.819 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 10:03:50.948 [Test worker] Base - click on city
+[INFO ] 2021-08-09 10:03:53.059 [Test worker] Base - select city
+[INFO ] 2021-08-09 10:03:53.147 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 10:03:56.932 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 10:03:59.079 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 10:03:59.292 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 10:03:59.494 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 10:04:00.959 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 10:09:31.706 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 10:09:31.891 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 10:09:46.371 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 10:09:47.509 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 10:09:54.464 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 10:10:07.798 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 10:10:09.998 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 10:10:10.004 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 10:10:10.004 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 10:10:12.149 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 10:10:15.038 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 10:10:15.039 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 10:10:15.184 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 10:10:15.184 [Test worker] Base - enter address
+[INFO ] 2021-08-09 10:10:15.334 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 10:10:15.334 [Test worker] Base - click on country
+[INFO ] 2021-08-09 10:10:17.456 [Test worker] Base - select country
+[INFO ] 2021-08-09 10:10:17.522 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 10:10:17.523 [Test worker] Base - click on state
+[INFO ] 2021-08-09 10:10:19.750 [Test worker] Base - select state
+[INFO ] 2021-08-09 10:10:19.819 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 10:10:19.820 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 10:10:19.937 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 10:10:19.937 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 10:10:20.054 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 10:10:20.054 [Test worker] Base - click on city
+[INFO ] 2021-08-09 10:10:22.139 [Test worker] Base - select city
+[INFO ] 2021-08-09 10:10:22.184 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 10:10:25.607 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 10:10:27.703 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 10:10:27.770 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 10:10:27.940 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 10:10:30.919 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:31:07.551 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:31:07.722 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:31:19.545 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:31:20.677 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:31:27.097 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:31:29.673 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:31:29.674 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:31:29.675 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:31:29.729 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:31:29.913 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:31:30.718 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:34:08.314 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:34:08.507 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:34:20.002 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:34:21.119 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:34:27.200 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:34:35.640 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:34:35.640 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:34:35.640 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:34:35.673 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:34:35.854 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:34:37.028 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:35:14.663 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:35:14.826 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:35:26.398 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:35:27.522 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:35:33.633 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:35:42.721 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:35:42.724 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:35:42.724 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:35:42.792 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:35:42.985 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:35:44.519 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:36:31.715 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:36:31.881 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:36:43.013 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:36:44.098 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:36:50.303 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:36:52.610 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:36:52.612 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:36:52.612 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:36:52.648 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:36:52.815 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:36:53.969 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:37:37.689 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:37:37.857 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:37:50.093 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:37:51.210 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:37:57.943 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:38:06.083 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:38:06.084 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:38:06.084 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:38:06.126 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:38:06.275 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:38:07.225 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:41:35.774 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:41:35.952 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:41:47.146 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:41:48.319 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:42:23.964 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:42:24.116 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:42:35.504 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:42:36.612 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:42:42.928 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:42:45.517 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:42:45.517 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:42:45.517 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:42:45.581 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:42:45.747 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:42:46.614 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:44:31.617 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:44:31.780 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:44:43.990 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:44:45.100 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:44:51.879 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:45:59.082 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:45:59.082 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:45:59.082 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:45:59.180 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:47:42.067 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:47:42.267 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:47:54.684 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:47:55.798 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:48:02.603 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:48:33.606 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:48:33.613 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:48:33.614 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:48:33.642 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:48:33.815 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:48:34.938 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:49:17.362 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:49:17.516 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:49:28.950 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:49:30.059 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:49:36.381 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:50:07.694 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 11:50:09.859 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:50:09.862 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:50:09.862 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:50:12.007 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 11:50:15.411 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 11:50:15.412 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 11:50:15.530 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 11:50:15.530 [Test worker] Base - enter address
+[INFO ] 2021-08-09 11:50:15.660 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 11:50:15.660 [Test worker] Base - click on country
+[INFO ] 2021-08-09 11:50:17.771 [Test worker] Base - select country
+[INFO ] 2021-08-09 11:50:17.789 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 11:50:17.789 [Test worker] Base - click on state
+[INFO ] 2021-08-09 11:50:19.934 [Test worker] Base - select state
+[INFO ] 2021-08-09 11:50:19.981 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 11:50:19.982 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 11:50:20.099 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 11:50:20.100 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 11:50:20.179 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 11:50:20.179 [Test worker] Base - click on city
+[INFO ] 2021-08-09 11:50:22.291 [Test worker] Base - select city
+[INFO ] 2021-08-09 11:50:22.333 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 11:50:25.822 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 11:50:27.890 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 11:50:27.902 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:50:28.052 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:50:28.905 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:57:32.778 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:57:32.942 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:57:44.665 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:57:45.783 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:57:52.061 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:58:21.131 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:58:21.136 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:58:21.136 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:58:21.166 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:58:21.366 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:58:22.827 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 11:58:40.781 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 11:58:40.955 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 11:58:53.657 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 11:58:54.756 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 11:59:01.461 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 11:59:30.282 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 11:59:30.283 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 11:59:30.284 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 11:59:30.318 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 11:59:30.489 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 11:59:31.204 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:00:07.766 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:00:07.926 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:00:20.092 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:00:21.207 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:00:27.413 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:00:56.271 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:00:56.275 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:00:56.275 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:00:56.331 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:00:56.505 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:00:57.657 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:08:30.290 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:08:30.659 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:08:43.046 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:08:44.160 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:08:50.336 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:09:21.456 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:09:21.458 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:09:21.458 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:09:21.836 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:09:22.096 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:09:23.695 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:09:45.035 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:09:45.194 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:09:57.419 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:09:58.514 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:10:04.602 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:10:36.406 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:10:36.409 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:10:36.409 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:10:36.435 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:10:36.621 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:10:37.561 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:11:24.622 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:11:24.770 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:11:36.647 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:11:37.767 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:11:44.419 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:12:16.290 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:12:16.301 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:12:16.301 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:12:16.351 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:12:16.500 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:12:17.455 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:15:07.634 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:15:07.796 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:15:19.053 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:15:20.170 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:15:26.629 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:15:53.341 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:15:53.354 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:15:53.355 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:15:53.385 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:15:53.542 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:15:54.293 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:16:32.700 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:16:32.915 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:16:44.850 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:16:45.950 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:16:52.226 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:17:19.020 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:17:19.021 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:17:19.021 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:17:19.054 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:17:19.274 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:17:20.045 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:18:51.657 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:18:51.818 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:19:03.198 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:19:04.312 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:19:10.612 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:19:33.841 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:19:33.844 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:19:33.844 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:19:33.879 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:19:34.030 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:19:34.707 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:19:48.381 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:19:48.569 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:20:01.325 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:20:02.444 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:20:08.625 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:20:35.559 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:20:35.571 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:20:35.574 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:20:35.608 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:20:35.774 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:20:36.551 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:21:03.281 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:21:03.474 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:21:16.987 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:21:17.146 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:21:28.728 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:21:29.856 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:21:36.036 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:22:07.922 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:22:07.923 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:22:07.923 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:22:07.999 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:22:08.156 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:22:08.193 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:22:25.860 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:22:26.042 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:22:37.625 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:22:37.823 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:22:50.309 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:22:51.432 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:22:57.904 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:23:34.792 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:23:34.794 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:23:34.794 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:23:34.890 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:23:35.046 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:23:35.093 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:27:24.336 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:27:24.503 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:27:36.426 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:27:37.547 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:27:43.818 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:28:21.135 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:28:21.137 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:28:21.137 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:28:21.165 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:28:21.345 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:28:21.402 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:29:48.100 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:29:48.296 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:30:00.198 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:30:01.299 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:30:07.595 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:30:39.550 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:30:39.554 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:30:39.555 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:30:39.620 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:30:39.779 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:30:41.431 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:31:19.030 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:31:19.201 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:31:31.079 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:31:32.214 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:31:39.163 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:32:11.164 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:32:11.167 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:32:11.167 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:32:11.225 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:32:11.410 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:32:13.395 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:35:43.885 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:35:44.053 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:35:57.316 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:35:58.615 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:36:05.018 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:36:09.634 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:36:09.636 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:36:09.636 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:36:09.683 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:36:12.366 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:36:13.227 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:36:51.281 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:36:51.432 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:37:03.136 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:37:04.261 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:37:10.416 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:37:26.434 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:37:26.434 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:37:26.434 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:37:26.527 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:37:26.703 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:37:27.501 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:40:19.394 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:40:19.565 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:40:32.055 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:40:33.182 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:40:39.570 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:41:13.377 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:41:13.379 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:41:13.380 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:41:13.443 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:41:13.479 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:42:06.863 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:42:07.012 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:42:18.807 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:42:19.920 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:42:26.521 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:43:00.988 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:43:00.994 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:43:00.994 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:43:01.077 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:43:01.220 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:43:28.746 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:43:28.967 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:43:42.210 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:43:43.342 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:43:50.191 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:44:23.855 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:44:23.858 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:44:23.859 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:44:23.919 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:44:24.126 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:44:25.248 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:45:27.395 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:45:27.573 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:45:40.821 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:45:41.978 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:45:49.027 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:47:17.756 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:47:17.759 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:47:17.760 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:47:17.821 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:47:18.008 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:47:19.530 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:51:48.918 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:51:49.110 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:52:02.665 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:52:03.801 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:52:10.150 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:52:42.317 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:52:42.326 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:52:42.326 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:52:42.438 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:52:42.634 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:52:44.122 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 12:53:22.582 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 12:53:22.825 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 12:53:36.690 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 12:53:37.849 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 12:53:44.927 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 12:54:14.228 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 12:54:14.231 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 12:54:14.231 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 12:54:14.326 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 12:54:14.506 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 12:54:16.666 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:04:21.234 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:04:21.425 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:04:34.934 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:04:36.075 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:04:43.345 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:05:35.167 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:05:35.167 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:05:35.167 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:05:35.489 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:05:35.714 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:05:38.109 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:33:11.145 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:33:11.370 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:33:24.355 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:33:25.501 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:33:32.703 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:33:40.741 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:33:40.743 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:33:40.743 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:33:40.949 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:33:41.127 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:33:42.163 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:34:13.891 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:34:14.069 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:34:26.993 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:34:28.152 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:34:34.926 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:34:44.026 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:34:44.045 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:34:44.045 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:34:44.237 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:34:44.425 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:34:45.313 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:35:50.223 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:35:50.422 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:36:05.479 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:36:06.634 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:36:13.575 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:36:22.052 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:36:22.053 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:36:22.053 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:36:22.200 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:36:22.412 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:36:23.827 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:47:47.430 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:47:47.597 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:48:00.945 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:48:02.095 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:48:08.502 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:48:12.368 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:48:12.370 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:48:12.370 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:48:12.413 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:48:12.649 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:48:13.358 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:52:53.547 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:52:53.716 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:53:31.760 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:53:31.917 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:53:47.117 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:53:48.230 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:53:55.149 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:54:03.125 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:54:03.128 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:54:03.128 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:54:03.243 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:54:03.481 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:54:05.293 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:55:33.755 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:55:33.932 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:55:47.147 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:55:48.287 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:55:55.832 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:56:03.900 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:56:03.904 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:56:03.904 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:56:03.950 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:56:04.129 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:56:05.537 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 13:58:31.549 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 13:58:31.742 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 13:58:44.926 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 13:58:46.070 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 13:58:52.495 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 13:58:55.447 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 13:58:55.450 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 13:58:55.450 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 13:58:55.502 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 13:58:55.720 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 13:58:56.640 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:00:23.938 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:00:24.105 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:00:37.074 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:00:38.231 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:00:44.457 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:00:50.397 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:00:50.399 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:00:50.399 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:00:50.457 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:00:50.651 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:00:51.540 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:01:10.288 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:01:10.472 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:01:23.987 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:01:25.122 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:01:31.839 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:01:38.845 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:01:38.845 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:01:38.845 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:01:38.962 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:01:39.165 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:01:40.018 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:02:01.684 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:02:01.891 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:02:15.541 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:02:16.672 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:02:23.883 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:02:32.197 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 14:02:34.437 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:02:34.439 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:02:34.440 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:02:36.647 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 14:02:39.373 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 14:02:39.373 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 14:02:39.520 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 14:02:39.520 [Test worker] Base - enter address
+[INFO ] 2021-08-09 14:02:39.656 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 14:02:39.656 [Test worker] Base - click on country
+[INFO ] 2021-08-09 14:02:41.775 [Test worker] Base - select country
+[INFO ] 2021-08-09 14:02:41.825 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 14:02:41.825 [Test worker] Base - click on state
+[INFO ] 2021-08-09 14:02:43.993 [Test worker] Base - select state
+[INFO ] 2021-08-09 14:02:44.082 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 14:02:44.083 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 14:02:44.222 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 14:02:44.222 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 14:02:44.351 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 14:02:44.359 [Test worker] Base - click on city
+[INFO ] 2021-08-09 14:02:46.467 [Test worker] Base - select city
+[INFO ] 2021-08-09 14:02:46.523 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 14:02:50.467 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 14:02:52.560 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 14:02:52.587 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:02:52.768 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:02:54.021 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:05:32.590 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:05:32.777 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:05:46.139 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:05:47.264 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:05:54.646 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:06:02.982 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 14:06:05.187 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:06:05.187 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:06:05.187 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:06:07.319 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 14:06:09.935 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 14:06:09.935 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 14:06:10.060 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 14:06:10.060 [Test worker] Base - enter address
+[INFO ] 2021-08-09 14:06:10.215 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 14:06:10.215 [Test worker] Base - click on country
+[INFO ] 2021-08-09 14:06:12.324 [Test worker] Base - select country
+[INFO ] 2021-08-09 14:06:12.368 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 14:06:12.368 [Test worker] Base - click on state
+[INFO ] 2021-08-09 14:06:14.508 [Test worker] Base - select state
+[INFO ] 2021-08-09 14:06:14.599 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 14:06:14.600 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 14:06:14.731 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 14:06:14.731 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 14:06:14.902 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 14:06:14.902 [Test worker] Base - click on city
+[INFO ] 2021-08-09 14:06:17.016 [Test worker] Base - select city
+[INFO ] 2021-08-09 14:06:17.089 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 14:06:22.034 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 14:06:24.172 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 14:06:24.181 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:06:24.377 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:06:25.827 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:07:01.201 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:07:01.378 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:07:14.610 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:07:15.759 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:07:22.434 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:07:30.701 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 14:07:32.897 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:07:32.897 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:07:32.897 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:07:35.048 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 14:07:37.995 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 14:07:37.995 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 14:07:38.135 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 14:07:38.135 [Test worker] Base - enter address
+[INFO ] 2021-08-09 14:07:38.289 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 14:07:38.290 [Test worker] Base - click on country
+[INFO ] 2021-08-09 14:07:40.409 [Test worker] Base - select country
+[INFO ] 2021-08-09 14:07:40.449 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 14:07:40.449 [Test worker] Base - click on state
+[INFO ] 2021-08-09 14:07:42.621 [Test worker] Base - select state
+[INFO ] 2021-08-09 14:07:42.689 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 14:07:42.690 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 14:07:42.788 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 14:07:42.788 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 14:07:42.920 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 14:07:42.921 [Test worker] Base - click on city
+[INFO ] 2021-08-09 14:07:45.037 [Test worker] Base - select city
+[INFO ] 2021-08-09 14:07:45.106 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 14:07:49.677 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 14:07:51.788 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 14:07:51.818 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:07:52.002 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:07:52.095 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 14:09:25.066 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 14:09:25.256 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 14:09:38.743 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 14:09:39.882 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 14:09:47.087 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 14:09:55.885 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 14:09:58.121 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 14:09:58.134 [Test worker] Base - Give the valid address of the user to place the order in BooksWagon
+[INFO ] 2021-08-09 14:09:58.134 [Test worker] Base - click on place order
+[INFO ] 2021-08-09 14:10:00.274 [Test worker] Base - click on continue button
+[INFO ] 2021-08-09 14:10:02.880 [Test worker] Base - enter the name of the user
+[INFO ] 2021-08-09 14:10:02.881 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 14:10:02.985 [Test worker] Base - enter the address of the user
+[INFO ] 2021-08-09 14:10:02.985 [Test worker] Base - enter address
+[INFO ] 2021-08-09 14:10:03.090 [Test worker] Base - select the country of the user
+[INFO ] 2021-08-09 14:10:03.090 [Test worker] Base - click on country
+[INFO ] 2021-08-09 14:10:05.197 [Test worker] Base - select country
+[INFO ] 2021-08-09 14:10:05.213 [Test worker] Base - select the state of the user
+[INFO ] 2021-08-09 14:10:05.213 [Test worker] Base - click on state
+[INFO ] 2021-08-09 14:10:07.412 [Test worker] Base - select state
+[INFO ] 2021-08-09 14:10:07.510 [Test worker] Base - enter the pinCode of the users city
+[INFO ] 2021-08-09 14:10:07.511 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 14:10:07.639 [Test worker] Base - enter the mobile number of the user
+[INFO ] 2021-08-09 14:10:07.639 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 14:10:07.795 [Test worker] Base - select the city of the user
+[INFO ] 2021-08-09 14:10:07.803 [Test worker] Base - click on city
+[INFO ] 2021-08-09 14:10:09.938 [Test worker] Base - select city
+[INFO ] 2021-08-09 14:10:10.016 [Test worker] Base - click on save and continue
+[INFO ] 2021-08-09 14:10:13.640 [Test worker] Base - click on save and continue in cart
+[INFO ] 2021-08-09 14:10:15.737 [Test worker] Base - End of the test
+[INFO ] 2021-08-09 14:10:15.753 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 14:10:15.938 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 14:10:16.994 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 15:14:55.525 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 15:14:55.733 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 15:15:08.362 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 15:15:09.497 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 15:15:16.514 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 15:15:24.798 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 15:15:27.043 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 15:15:31.842 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-09 15:15:31.843 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 15:15:31.972 [Test worker] Base - enter address
+[INFO ] 2021-08-09 15:15:36.491 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 15:15:36.592 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 15:15:49.293 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 15:15:49.456 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 15:15:55.700 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 15:21:52.445 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 15:21:52.642 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 15:22:07.862 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 15:22:08.986 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 15:22:15.955 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 15:22:28.891 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 15:22:31.119 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 15:22:35.903 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-09 15:22:35.905 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 15:22:36.057 [Test worker] Base - enter address
+[INFO ] 2021-08-09 15:22:40.691 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 15:22:40.811 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 15:22:52.435 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 15:22:52.604 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 15:22:57.559 [Test worker] Base - Browser is closed
+[INFO ] 2021-08-09 15:39:28.296 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-08-09 15:39:28.438 [Test worker] Base - entering application URL
+[INFO ] 2021-08-09 15:39:42.671 [Test worker] Base - setting the username
+[INFO ] 2021-08-09 15:39:43.814 [Test worker] Base - setting the password
+[INFO ] 2021-08-09 15:39:50.836 [Test worker] Base - searching the author name
+[INFO ] 2021-08-09 15:39:59.174 [Test worker] Base - changing the value of the quantity box
+[INFO ] 2021-08-09 15:40:01.409 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-08-09 15:40:06.580 [Test worker] Base - setting the address of the user
+[INFO ] 2021-08-09 15:40:06.580 [Test worker] Base - enter name of the recipient
+[INFO ] 2021-08-09 15:40:06.704 [Test worker] Base - enter address
+[INFO ] 2021-08-09 15:40:11.255 [Test worker] Base - enter pinCode
+[INFO ] 2021-08-09 15:40:11.365 [Test worker] Base - enter mobile number
+[INFO ] 2021-08-09 15:40:23.012 [Test worker] Base - Hovering to the accountNmae
+[INFO ] 2021-08-09 15:40:23.186 [Test worker] Base - clicking on logout button
+[INFO ] 2021-08-09 15:40:28.581 [Test worker] Base - Browser is closed

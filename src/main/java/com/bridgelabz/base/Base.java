@@ -1,6 +1,7 @@
 package com.bridgelabz.base;
 
 
+import com.bridgelabz.utility.CustomException;
 import com.bridgelabz.utility.MyScreenRecorder;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
@@ -9,6 +10,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+
+import java.net.URL;
+import java.net.URLConnection;
 
 public class Base {
     public static WebDriver driver;
@@ -26,6 +30,16 @@ public class Base {
         log.info("entering application URL");
         driver.get("https://www.bookswagon.com/");
         Thread.sleep(3000);
+        try {
+            URL url = new URL(driver.getCurrentUrl());
+            Thread.sleep(1000);
+            URLConnection connection = url.openConnection();
+            connection.connect();
+            System.out.println("Internet connected");
+            throw new CustomException();
+        } catch (CustomException e) {
+            e.printStackTrace();
+        }
     }
     //After execution
     @AfterTest

@@ -1,19 +1,28 @@
 package com.bridgelabz.pages;
 
 import com.bridgelabz.base.Base;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openxmlformats.schemas.drawingml.x2006.main.ThemeDocument;
+import org.testng.Assert;
+
 import java.awt.*;
 import java.awt.event.KeyEvent;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class AddToCart extends Base {
     @FindBy(xpath = "//input[@id = 'ctl00_TopSearch1_txtSearch']")
     WebElement search;
 
-    @FindBy(xpath = "//*[@id=\"listSearchResult\"]/div[1]/div[3]/div[1]/a")
-    WebElement book;
+    @FindBy(xpath = "//div[@class = 'title']")
+    List<WebElement> SudhaMurthyBooks;
 
     @FindBy(xpath = "//*[@id=\"ctl00_phBody_ProductDetail_divAddtoCart\"]/a/input")
     WebElement buyNow;
@@ -32,11 +41,24 @@ public class AddToCart extends Base {
         search.sendKeys("Sudha Murthy");
         robot.keyPress(KeyEvent.VK_ENTER);
         robot.keyRelease(KeyEvent.VK_ENTER);
-        Thread.sleep(5000);
-        book.click();
         Thread.sleep(2000);
-        buyNow.click();
-        Thread.sleep(5000);
+        System.out.println(driver.getTitle());
+        Assert.assertEquals(driver.getTitle(),"sudha murthy - Books - 24x7 online bookstore Bookswagon.com");
+    }
+    public void getBook() throws InterruptedException {
+        ArrayList<String> list = new ArrayList<>();
+        for (int i = 0; i < SudhaMurthyBooks.size(); i++) {
+            String books = SudhaMurthyBooks.get(i).getText();
+            list.add(books);
+            System.out.println(books);
+        }
+    }
+    public void click_on_book() throws InterruptedException {
+       SudhaMurthyBooks.get(6).click();
+       Thread.sleep(2000);
+       buyNow.click();
+       Thread.sleep(2000);
+        Assert.assertTrue(SudhaMurthyBooks.get(6).isDisplayed());
     }
     public void updateQuantity() throws InterruptedException {
         driver.switchTo().frame(1);
@@ -45,6 +67,6 @@ public class AddToCart extends Base {
         quantityBox.sendKeys("2");
         quantityBox.click();
         Thread.sleep(2000);
+        Assert.assertTrue(quantityBox.isDisplayed());
     }
-
 }

@@ -71,7 +71,6 @@ public class MyScreenRecorder extends ScreenRecorder {
         screenRecorder.start();
 
     }
-
     public static void stopRecording() throws Exception {
         screenRecorder.stop();
 
