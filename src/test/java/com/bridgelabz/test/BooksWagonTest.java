@@ -31,11 +31,15 @@ public class BooksWagonTest extends Base {
         AddToCart cart = new AddToCart(driver);
         cart.setSearch();
     }
+    @Severity(SeverityLevel.NORMAL)
+    @Description("Getting all the results for book name given in the search bar")
     @Test(priority = 3)
     public void getBooks() throws InterruptedException {
         AddToCart cart = new AddToCart(driver);
         cart.getBook();
     }
+    @Severity(SeverityLevel.NORMAL)
+    @Description("selecting and clicking the book we want to add in cart")
     @Test(priority = 4)
     public void clickOnBook() throws InterruptedException {
         AddToCart cart = new AddToCart(driver);

@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 public class LoginWithInvalidCredentials extends Base {
     @FindBy(xpath = "//a[text() = 'Login']")
@@ -40,6 +41,7 @@ public class LoginWithInvalidCredentials extends Base {
     public String getErrorMessage() {
         String message = errorMessage.getText();
         System.out.println(message);
+        Assert.assertTrue(errorMessage.isDisplayed());
         return message;
     }
 }

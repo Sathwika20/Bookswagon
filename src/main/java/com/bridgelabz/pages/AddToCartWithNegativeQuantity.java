@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
@@ -53,11 +54,13 @@ public class AddToCartWithNegativeQuantity extends Base {
         quantityBox.click();
         Thread.sleep(2000);
         placeOrder.click();
+        Assert.assertTrue(quantityBox.isDisplayed());
     }
     public String getErrorMessage() throws InterruptedException {
         String message = errorMessage.getText();
         System.out.println(message);
         Thread.sleep(2000);
+        Assert.assertTrue(errorMessage.isDisplayed());
         return message;
     }
 }

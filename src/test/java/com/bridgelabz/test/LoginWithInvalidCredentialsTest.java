@@ -5,7 +5,6 @@ import com.bridgelabz.pages.LoginWithInvalidCredentials;
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginWithInvalidCredentialsTest extends Base {
@@ -15,8 +14,6 @@ public class LoginWithInvalidCredentialsTest extends Base {
     public void login_with_invalid_credentials() throws InterruptedException {
         LoginWithInvalidCredentials login = new LoginWithInvalidCredentials(driver);
         login.setLogin();
-        System.out.println(driver.getTitle());
-        Assert.assertEquals(driver.getTitle(),"Online BookStore India, Buy Books Online, Buy Book Online India - Bookswagon.com");
     }
     @Severity(SeverityLevel.NORMAL)
     @Description("Displays the error message shown")
@@ -24,8 +21,6 @@ public class LoginWithInvalidCredentialsTest extends Base {
      public void get_error_message() {
         LoginWithInvalidCredentials login = new LoginWithInvalidCredentials(driver);
          login.getErrorMessage();
-         System.out.println(driver.getTitle());
-         Assert.assertEquals(driver.getTitle(),"Online BookStore India, Buy Books Online, Buy Book Online India - Bookswagon.com");
-     }
+    }
 
 }

@@ -17,8 +17,6 @@ public class AddToCartWithNegativeCredentialsTest extends Base {
     public void search() throws InterruptedException, AWTException {
         AddToCartWithNegativeQuantity add = new AddToCartWithNegativeQuantity(driver);
         add.setSearch();
-        System.out.println(driver.getTitle());
-        Assert.assertEquals(driver.getTitle(),"Buy Grandma's Bag of Stories book by Sudha Murthy, Sudha, 9780143333623 - Bookswagon.com");
     }
     @Severity(SeverityLevel.NORMAL)
     @Description("Updating the quantity box using negative value")
@@ -26,8 +24,6 @@ public class AddToCartWithNegativeCredentialsTest extends Base {
     public void addToCart() throws InterruptedException {
         AddToCartWithNegativeQuantity add = new AddToCartWithNegativeQuantity(driver);
         add.updateQuantityWithNegativeValue();
-        System.out.println(driver.getTitle());
-        Assert.assertEquals(driver.getTitle(),"Buy Grandma's Bag of Stories book by Sudha Murthy, Sudha, 9780143333623 - Bookswagon.com");
     }
     @Severity(SeverityLevel.NORMAL)
     @Description("Displays the error message shown")
@@ -35,7 +31,5 @@ public class AddToCartWithNegativeCredentialsTest extends Base {
     public void get_error_message() throws InterruptedException {
         AddToCartWithNegativeQuantity add = new AddToCartWithNegativeQuantity(driver);
         add.getErrorMessage();
-        System.out.println(driver.getTitle());
-        Assert.assertEquals(driver.getTitle(),"Buy Grandma's Bag of Stories book by Sudha Murthy, Sudha, 9780143333623 - Bookswagon.com");
     }
 }
