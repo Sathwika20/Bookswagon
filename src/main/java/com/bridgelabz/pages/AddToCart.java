@@ -22,7 +22,7 @@ public class AddToCart extends Base {
     WebElement search;
 
     @FindBy(xpath = "//div[@class = 'title']")
-    List<WebElement> SudhaMurthyBooks;
+    List<WebElement> Books;
 
     @FindBy(xpath = "//*[@id=\"ctl00_phBody_ProductDetail_divAddtoCart\"]/a/input")
     WebElement buyNow;
@@ -47,18 +47,18 @@ public class AddToCart extends Base {
     }
     public void getBook() throws InterruptedException {
         ArrayList<String> list = new ArrayList<>();
-        for (int i = 0; i < SudhaMurthyBooks.size(); i++) {
-            String books = SudhaMurthyBooks.get(i).getText();
+        for (int i = 0; i < Books.size(); i++) {
+            String books = Books.get(i).getText();
             list.add(books);
             System.out.println(books);
         }
     }
     public void click_on_book() throws InterruptedException {
-       SudhaMurthyBooks.get(6).click();
+       Books.get(6).click();
        Thread.sleep(2000);
        buyNow.click();
        Thread.sleep(2000);
-        Assert.assertTrue(SudhaMurthyBooks.get(6).isDisplayed());
+        Assert.assertTrue(Books.get(6).isDisplayed());
     }
     public void updateQuantity() throws InterruptedException {
         driver.switchTo().frame(1);
